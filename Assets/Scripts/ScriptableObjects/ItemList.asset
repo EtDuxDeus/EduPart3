@@ -13,21 +13,21 @@ MonoBehaviour:
   m_Name: ItemList
   m_EditorClassIdentifier: 
   ItemList:
-  - ItemId: 1
-    ItemName: KatanaSword
-    ItemCost: 100
-    ItemWeight: 3
-    ItemTexture: {fileID: 2800000, guid: 8ed2f5125117611448de679c4d76fb2e, type: 3}
-    ItemMaterial: {fileID: 2100000, guid: e49f7b2b351bdde4c91518c4c22d1e82, type: 2}
-  - ItemId: 2
-    ItemName: GlovesOfHaste
-    ItemCost: 50
-    ItemWeight: 1
-    ItemTexture: {fileID: 2800000, guid: de80f505a4fb1054d9b638b1e6914195, type: 3}
-    ItemMaterial: {fileID: 2100000, guid: e49f7b2b351bdde4c91518c4c22d1e82, type: 2}
-  - ItemId: 3
-    ItemName: Coin
-    ItemCost: 1
-    ItemWeight: 0.1
-    ItemTexture: {fileID: 2800000, guid: 66d55d08161e0c6479d56adcec28d1d3, type: 3}
-    ItemMaterial: {fileID: 2100000, guid: e49f7b2b351bdde4c91518c4c22d1e82, type: 2}
+  - _ID: 0
+    name: NewItem
+    cost: 0
+    weight: 0
+    texture: {fileID: 0}
+    material: {fileID: 0}
+  - _ID: 0
+    name: NewItem
+    cost: 0
+    weight: 0
+    texture: {fileID: 0}
+    material: {fileID: 0}
+  - _ID: 0
+    name: NewItem
+    cost: 0
+    weight: 0
+    texture: {fileID: 0}
+    material: {fileID: 0}

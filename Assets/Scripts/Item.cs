@@ -8,12 +8,12 @@ namespace ItemsList
     public class Items
     {
         [SerializeField]
-        private int ItemId;
+        private int _ID;
 
-        public string ItemName = "NewItem";
-        public int ItemCost = 0;
-        public float ItemWeight = 0;
-        public Texture2D ItemTexture;
-        public Material ItemMaterial;
+        public string name = "NewItem";
+        public int cost = 0;
+        public float weight = 0;
+        public Texture2D texture;
+        public Material material;
     }
 }
