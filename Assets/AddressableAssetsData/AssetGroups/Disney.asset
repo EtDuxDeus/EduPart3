@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Disney
+  m_EditorClassIdentifier: 
+  m_GroupName: Disney
+  m_Data:
+    m_SerializedData: []
+  m_GUID: de64c664dafc961408dc73bade21da12
+  m_SerializeEntries:
+  - m_GUID: 4e11f9f575637fd408dc9bc05e8d07a0
+    m_Address: Wall-E
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 4e11f9f575637fd408dc9bc05e8d07a0, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 4e11f9f575637fd408dc9bc05e8d07a0, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 11c306cef79fcdb47abc477f0dd526b3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 489f93e3559fa8e4ba3fc6dd00d18446, type: 2}
+    - {fileID: 11400000, guid: f7ec82ae23ce64c4b8724c2cbb993337, type: 2}
